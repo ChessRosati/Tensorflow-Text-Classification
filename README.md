@@ -1,5 +1,5 @@
 # Tensorflow Text Classification
- Neural network to classify movie reviews as positive or negative.
+ Neural network which aims to classify movie reviews as positive or negative.
 
 How to use:
 
