@@ -47,6 +47,7 @@ results = model.evaluate(test_data, test_labels)
 
 print(results)
 
+
 test_review = test_data[5]
 predict = model.predict([test_review])
 print("Review: ")
